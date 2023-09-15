@@ -1,0 +1,4 @@
+server:
+  port: 8910
+  servlet:
+    context-path: /table-tales-api

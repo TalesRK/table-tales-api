@@ -31,3 +31,6 @@ table-tales-api.iml
 .mvn
 mvnw
 mvnw.cmd
+
+# Spring
+target
